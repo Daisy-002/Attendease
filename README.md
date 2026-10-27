@@ -174,3 +174,10 @@ Live links: backend — [add URL] · frontend — [add URL]
 - Geofenced check-ins for large halls.
 - Institute-wide dashboards and parent digests.
 - Timetable integration for automatic session scheduling.
+
+
+
+https://github.com/user-attachments/assets/81a162df-a598-45f8-86c2-31ac118c0565
+
+
+  
